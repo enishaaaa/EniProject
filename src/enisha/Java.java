@@ -1,5 +1,5 @@
+package enisha;
 public class Java {
-
     public static void main(String[] args) {
 
         double n1 = -4.5, n2 = 3.9, n3 = 5.5;
